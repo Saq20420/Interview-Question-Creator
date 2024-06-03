@@ -4,12 +4,12 @@
 
 1. create the environment
 
-'''bash
+```bash
 conda create -p venv python=3.10 -y
-'''
+```
 
 2. activate the environment
-'''bash
+```bash
 conda activate venv
-'''
+```
 
